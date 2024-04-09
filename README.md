@@ -1,0 +1,1 @@
+There are numerous practical uses for infrared (IR) communication, which is a commonly utilised and simple wireless technology. The most common applications that use infrared communication in daily life are TV/video remote controls, motion sensors, infrared thermometers, air conditioning remote controls, and all other applications.
